@@ -1,0 +1,74 @@
+{
+   "users": [ 
+    {
+      "id": 1,
+      "name": "Rohit Sharma",
+      "email": "rohit45@gmail.com.com",
+      "phone": "+91-7654342563",
+      "website": "https://rohitsharma45.com"
+    },
+    {
+      "id": 2,
+      "name": "Surya Kumar Yadav",
+      "email": "suryakumar@gmail.com",
+      "phone": "+91-8564787235",
+      "website": "https://suryakumar.com"
+    },
+    {
+      "id": 3,
+      "name": "Hardik Pandya",
+      "email": "hardikpandya33@gmail.com",
+      "phone": "+91-8594672534",
+      "website": "https://hardik33.com"
+    },
+    {
+      "id": 4,
+      "name": "Tilak Varma",
+      "email": "tilakvarma19@gmail.com",
+      "phone": "+91-9098767898",
+      "website": "https://tilak19.com"
+    },
+    {
+      "id": 5,
+      "name": "Jasprit Bumrah",
+      "email": "jasprit93@gmail.com",
+      "phone": "+91-6787689098",
+      "website": "https://jasboom93.com"
+    },
+    {
+      "id": 6,
+      "name": "Trent Boult",
+      "email": "trentboult32@gmail.com",
+      "phone": "+91-8765678972",
+      "website": "https://boulttrent32.com"
+    },
+    {
+      "id": 7,
+      "name": "Ethan Black",
+      "email": "ethan.black@example.com",
+      "phone": "+1234567896",
+      "website": "https://ethanblack.com"
+    },
+    {
+      "id": 8,
+      "name": "Will Jacks",
+      "email": "willjacks@gmail.com",
+      "phone": "+91-8989876765",
+      "website": "https://jackswill.com"
+    },
+    {
+      "id": 9,
+      "name": "Deepak Chahar",
+      "email": "deepakchahar9@gmail.com",
+      "phone": "+91-8765434567",
+      "website": "https://chahardeepak9.com"
+    },
+    {
+      "id": 10,
+      "name": "Mitchell Santner",
+      "email": "santnermitchell@gmail.com",
+      "phone": "+91-78790987622",
+      "website": "https://mitchyysantner.com"
+    }
+] 
+}
