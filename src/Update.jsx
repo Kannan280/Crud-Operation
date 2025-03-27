@@ -130,7 +130,7 @@ function Update() {
             Update
           </button>
 
-          <Link to="/" className="btn btn-outline-primary ms-3">
+          <Link to="/Crud-Operation" className="btn btn-outline-primary ms-3">
             Back
           </Link>
         </form>

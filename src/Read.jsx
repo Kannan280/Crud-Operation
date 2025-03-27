@@ -36,7 +36,7 @@ function Read() {
       <div className="text-center">
         <h1>Error</h1>
         <p>{error}</p>
-        <Link to="/" className="btn btn-outline-info">
+        <Link to="/Crud-Operation" className="btn btn-outline-info">
           <IoCaretBack /> Back to Home
         </Link>
       </div>
